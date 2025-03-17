@@ -1,7 +1,7 @@
 # Olá,Mundo! 
 Meu **Primeiro** repositório do curso de GitHub do __Guanabara__ (Totalmente gratuita)
 
-Skils Principais :
+Skills Principais :
 
 * HTML5
 * CSS3
